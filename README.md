@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Saif</h1>
 <h3 align="center">A passionate frontend developer from Ind Passionate and user-focused Full-Stack Developer skilled in building scalable web applications using React, Django, and Tailwind CSS. Eager to contribute to innovative teams creating impactful digital products.ia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saif-dev-19&label=Profile%20views&color=0e75b6&style=flat" alt="saif-dev-19" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-dev-19" alt="saif-dev-19" /></a> </p>
 
 - 🔭 I’m currently working on [VirtualBazar](https://github.com/saif-dev-19/Freelance-Platform-client.git)
 
-- 🌱 I’m currently learning **Django,Docoker,And Micro services**
-
-- 💬 Ask me about **Django,react etc.**
+- 🌱 I’m currently learning **Django,Docker,And Micro services, AI/ML also**
 
 - 📫 How to reach me **mahfujurrahmansaif@gmail.com**
 
