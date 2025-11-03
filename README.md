@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Mahfuzur Rahman Saif</h1>
+<h3 align="center">A passionate frontend developer from Ind Passionate and user-focused Full-Stack Developer skilled in building scalable web applications using React, Django, and Tailwind CSS. Eager to contribute to innovative teams creating impactful digital products.ia</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-dev-19" alt="saif-dev-19" /></a> </p>
+
+- 🔭 I’m currently working on [VirtualBazar](https://github.com/saif-dev-19/Freelance-Platform-client.git)
+
+- 🌱 I’m currently learning **Django,Docker,And Micro services, AI/ML also**
+
+- 📫 How to reach me **mahfujurrahmansaif@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yCDsmm5ymWUoLjnZR3y2u_q8TpRAO6gC/view?usp=drive_link](https://drive.google.com/file/d/1yCDsmm5ymWUoLjnZR3y2u_q8TpRAO6gC/view?usp=drive_link)
+
+- ⚡ Fun fact **I think I am funny, Childish.**
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Safu#7436) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hey.mahfuz.here.ok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mahfuzology_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfuzsaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfujurrahmansaif@gmail.com) 
 
