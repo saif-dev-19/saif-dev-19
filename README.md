@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman Saif</h1>
-<h3 align="center">A passionate frontend developer from Ind Passionate and user-focused Full-Stack Developer skilled in building scalable web applications using React, Django, and Tailwind CSS. Eager to contribute to innovative teams creating impactful digital products.ia</h3>
+<h3 align="center">A passionate frontend developer from Ind Passionate and user-focused Full-Stack Developer skilled in building scalable web applications using React, Django, and Tailwind CSS. Eager to contribute to innovative teams creating impactful digital products.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-dev-19" alt="saif-dev-19" /></a> </p>
 
