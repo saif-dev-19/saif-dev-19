@@ -1,25 +1,93 @@
-<h1 align="center">Hi 👋, I'm Mahfuzur Rahman Saif</h1>
-<h3 align="center">A passionate frontend developer from Ind Passionate and user-focused Full-Stack Developer skilled in building scalable web applications using React, Django, and Tailwind CSS. Eager to contribute to innovative teams creating impactful digital products.</h3>
+![](https://komarev.com/ghpvc/?username=saif-dev-19&style=for-the-badge)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saif-dev-19" alt="saif-dev-19" /></a> </p>
+<img align="right" alt="Coding" width="400" src="./coding.gif"/>
 
-- 🔭 I’m currently working on [VirtualBazar](https://github.com/saif-dev-19/Freelance-Platform-client.git)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Mahfuzur+Rahman+Saif...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-- 🌱 I’m currently learning **Django,Docker,And Micro services, AI/ML also**
+<div align="center">
+  <strong>
+    Full Stack Developer 👋 | React & Django Specialist |
+    Backend-Focused Engineer |
+    Building Secure & Scalable REST APIs with PostgreSQL 🚀
+  </strong>
+</div>
 
-- 📫 How to reach me **mahfujurrahmansaif@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yCDsmm5ymWUoLjnZR3y2u_q8TpRAO6gC/view?usp=drive_link](https://drive.google.com/file/d/1yCDsmm5ymWUoLjnZR3y2u_q8TpRAO6gC/view?usp=drive_link)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahfuzsaif/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/saif-dev-19">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://mahfuzur-rahman-saif.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Mahfuz_saif/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:mahfujurrahmansaif@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+</div>
 
-- ⚡ Fun fact **I think I am funny, Childish.**
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Safu#7436) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hey.mahfuz.here.ok) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mahfuzology_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfuzsaif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahfujurrahmansaif@gmail.com) 
+<hr/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saif-dev-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saif-dev-19&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saif-dev-19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with  
+  <strong>React, JavaScript, Django, DRF, PostgreSQL, Tailwind CSS.</strong>
+- 🚀 &nbsp; I focus more on  
+  <strong>Backend architecture, REST APIs, authentication & performance.</strong>
+- 📫 &nbsp; Reach me out:  
+  <strong>mahfujurrahmansaif@gmail.com</strong>
+
+### My Absolute Favorites:
+- 💻 &nbsp; Building production-ready web applications
+- 🧠 &nbsp; Writing clean, maintainable backend logic
+- 🍕 &nbsp; Solving problems & learning new tech
+
+<hr/>
+
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
+<div align="center">
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Python" height="25" src="images/python.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.svg"></code>
+  <code><img title="Django REST Framework" height="25" src="images/rest.png"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/tailwindcss.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS3" height="25" src="images/css.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="SQLite" height="25" src="images/sqlite.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+</div>
+
+<br/>
+
+```javascript
+const mahfuzSaif = {
+  pronouns: "he/him",
+  code: ["JavaScript", "Python", "HTML", "CSS"],
+  frameworks: ["React", "Django", "Django REST Framework"],
+  databases: ["PostgreSQL", "SQLite"],
+  tools: ["Git", "GitHub", "VS Code"],
+  architecture: ["REST APIs", "JWT Authentication", "Role-Based Access"],
+  projects: [
+    "VirtualBazar - Freelance Platform",
+    "PhiMart - E-commerce Platform",
+    "Event Management System"
+  ],
+  focus: "Backend-focused full stack development"
+}
