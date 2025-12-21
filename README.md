@@ -58,6 +58,8 @@
 ## 🔥 Languages, Frameworks & Tools 🔥
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
@@ -69,8 +71,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" title="Tailwind CSS"/>
+
 </div>
+
 
 ---
 
@@ -81,7 +85,7 @@ const mahfuzSaif = {
   frameworks: ["React", "Django", "Django REST Framework"],
   databases: ["PostgreSQL", "SQLite"],
   tools: ["Git", "GitHub", "VS Code"],
-  architecture: ["REST APIs", "JWT Authentication", "Role-Based Access"],
+  architecture: ["REST APIs", "JWT Authentication", "Role-Based Access", "Payment Gateway(Sslcommerz)"],
   projects: [
     "VirtualBazar - Freelance Platform",
     "PhiMart - E-commerce Platform",
