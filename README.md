@@ -1,12 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saif-dev-19&style=for-the-badge)
 
-<img align="right" alt="Coding" width="400" src="./mahfuz.png"/>
-
-# <p align="center">  
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;I+am+Mahfuzur+Rahman+Saif...;Nice+to+meet+you!&center=true&size=30">
-</a>
+<p align="center">
+  <img alt="Coding" width="400" src="./mahfuz.png"/>
 </p>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;👋+I+am+Mahfuzur+Rahman+Saif..;Nice+to+meet+you!&center=true&size=30">
+</h1>
+
 
 <div align="center">
   <strong>
