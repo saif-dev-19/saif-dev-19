@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=saif-dev-19&style=for-the-badge)
 
-<img align="right" alt="Coding" width="400" src="./coding.gif"/>
+<img align="right" alt="Coding" width="400" src="./mahfuz.png"/>
 
 # <p align="center">  
 <a href="https://git.io/typing-svg">
