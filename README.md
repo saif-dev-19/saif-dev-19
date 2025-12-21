@@ -1,18 +1,17 @@
-![](https://komarev.com/ghpvc/?username=saif-dev-19&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=saif-dev-19&style=for-the-badge)
 
 <img align="right" alt="Coding" width="400" src="./coding.gif"/>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Mahfuzur+Rahman+Saif...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# <p align="center">  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+;I+am+Mahfuzur+Rahman+Saif...;Nice+to+meet+you!&center=true&size=30">
+</a>
+</p>
 
 <div align="center">
   <strong>
-    Full Stack Developer 👋 | React & Django Specialist |
-    Backend-Focused Engineer |
-    Building Secure & Scalable REST APIs with PostgreSQL 🚀
+    Full Stack Developer | React & Django Specialist |<br>
+    Backend-Focused Engineer | Building Secure & Scalable REST APIs with PostgreSQL
   </strong>
 </div>
 
@@ -36,45 +35,44 @@
   </a>
 </div>
 
-<hr/>
+---
 
 <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently working with  
-  <strong>React, JavaScript, Django, DRF, PostgreSQL, Tailwind CSS.</strong>
+  **React, JavaScript, Django, DRF, PostgreSQL, Tailwind CSS.**
 - 🚀 &nbsp; I focus more on  
-  <strong>Backend architecture, REST APIs, authentication & performance.</strong>
+  **Backend architecture, REST APIs, authentication & performance.**
 - 📫 &nbsp; Reach me out:  
-  <strong>mahfujurrahmansaif@gmail.com</strong>
+  **mahfujurrahmansaif@gmail.com**
 
 ### My Absolute Favorites:
 - 💻 &nbsp; Building production-ready web applications
 - 🧠 &nbsp; Writing clean, maintainable backend logic
 - 🍕 &nbsp; Solving problems & learning new tech
 
-<hr/>
+---
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+## 🔥 Languages, Frameworks & Tools 🔥
 
 <div align="center">
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.svg"></code>
-  <code><img title="Django REST Framework" height="25" src="images/rest.png"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwindcss.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="SQLite" height="25" src="images/sqlite.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" title="Tailwind CSS"/>
 </div>
 
-<br/>
+---
 
 ```javascript
 const mahfuzSaif = {
